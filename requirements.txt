@@ -1,0 +1,8 @@
+streamlit
+nltk
+torch
+transformers
+scikit-learn
+python-docx
+python-pptx
+PyMuPDF
