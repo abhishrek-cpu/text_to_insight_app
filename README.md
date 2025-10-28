@@ -48,10 +48,10 @@ streamlit run app.py
 
 ## 🖼️ App Screenshot
 
-![Text to Insight App]<img width="1307" height="713" alt="Image" src="https://github.com/user-attachments/assets/d2194620-24c4-4dc5-81e7-82a2e46f534c" />
+<img width="1307" height="713" alt="Image" src="https://github.com/user-attachments/assets/d2194620-24c4-4dc5-81e7-82a2e46f534c" />
 
 ## 🔍 Example Output
 
 Here’s an example of summary from an uploaded file:
 
-![Example Output]<img width="1309" height="681" alt="Image" src="https://github.com/user-attachments/assets/6d0d7b51-4c4d-422a-9e93-843994bc92ec" />
+<img width="1309" height="681" alt="Image" src="https://github.com/user-attachments/assets/6d0d7b51-4c4d-422a-9e93-843994bc92ec" />
