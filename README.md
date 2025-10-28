@@ -5,7 +5,7 @@ It performs **keyword extraction**, **sentiment analysis**, and **auto summariza
 
 ---
 
-## 🚀 Features
+## Features
 
 ✅ Upload files in **PDF**, **DOCX**, or **PPTX** format  
 ✅ Extract text automatically from uploaded files  
@@ -18,9 +18,9 @@ It performs **keyword extraction**, **sentiment analysis**, and **auto summariza
 
 ## Library Stack
 
-- Python 🐍
-- Streamlit 🌐
-- Transformers (Hugging Face) 🤗
+- Python
+- Streamlit
+- Transformers (Hugging Face)
 - scikit-learn
 - PyMuPDF, python-docx, python-pptx
 - NLTK
