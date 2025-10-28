@@ -42,10 +42,7 @@ st.write("Paste your text below for AI-powered analysis — keywords, sentiment,
 # accept user input
 user_text = st.text_area("Enter your text here", height=200)
 
-uploaded_file = st.file_uploader(
-    "📂 Upload a file (PDF, Word, or PowerPoint)",
-    type=["pdf", "docx", "pptx"]
-)
+uploaded_file = st.file_uploader( "📂 Upload a file (PDF, Word, or PowerPoint)",type=["pdf", "docx", "pptx"])
 
 # process uploaded file
 if uploaded_file: 
